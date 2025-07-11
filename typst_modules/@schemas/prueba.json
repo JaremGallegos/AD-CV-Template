@@ -1,0 +1,226 @@
+{
+  "information": {
+    "author": "Jarem Joseph Gallegos Yanarico",
+    "location": "Arequipa, Perú",
+    "linkedin": "linkedin.com/in/JaremGallegos",
+    "phone": "+51 946 333 420",
+    "email": "jaremgallegosp@gmail.com"
+  },
+  "resume": "Profesional Técnico graduado en Computación e Informática, con formación complementaria en Ciencia de la Computación y Sistemas de la Información. Poseo una sólida base en programación orientada a paradigmas (Java, Python, C++, C#, JavaScript) y un dominio robusto de bases de datos (SQL y NoSQL). Mis habilidades se validan con certificaciones de Oracle, Microsoft y Cisco, demostrando capacidad para la resolución de problemas, el pensamiento crítico y el desarrollo de aplicaciones (fullstack, backend y frontend). Estoy en búsqueda de una oportunidad de prácticas para aplicar y expandir mis conocimientos en un entorno de desarrollo de software.",
+  "education": [
+    {
+      "institution": "Universidad Continental",
+      "location": "Arequipa, Perú",
+      "dates": {
+        "start-date": "Marzo 2024",
+        "end-date": "Presente"
+      },
+      "degree": "Licenciado en Ciencia de la Computación",
+      "content": {
+        "honor": "Estudiante de la Carrera de Ciencia de la Computación",
+        "PPA": 18.88,
+        "cuadro-honor": "2024-2025",
+        "habilidades": "Algoritmos y Estructuras de Datos Intermedio; Programación Orientada a Paradigmas (C/C++, Python, Rust); Fundamentos de Sistemas Operativos y Redes; Principios de Aprendizaje Automático; Arquitectura de Computadoras y Compiladores"
+      }
+    },
+    {
+      "institution": "Instituto Tecnológico CIBERTEC",
+      "location": "Arequipa, Perú",
+      "dates": {
+        "start-date": "Marzo 2023",
+        "end-date": "Julio 2025"
+      },
+      "degree": "Profesional Técnico en Computación e Informática",
+      "content": {
+        "honor": "Egresado de la Carrera, Bachiller Técnico en Computación e Informática",
+        "PPA": 19.56,
+        "cuadro-honor": "2023-2025",
+        "habilidades": "Gestión de Infraestructura y Bases de Datos (SQL, NoSQL); Desarrollo de Software (.NET, Java); Fiabilidad y Monitoreo de Sistemas; Despliegue y Gestión de Aplicaciones; Ingeniería de Requerimientos y Análisis; Metodologías Ágiles (SCRUM)"
+      }
+    },
+    {
+      "institution": "Instituto Técnico Zegel",
+      "location": "Arequipa, Perú",
+      "dates": {
+        "start-date": "Marzo 2023",
+        "end-date": "Diciembre 2023"
+      },
+      "degree": "Ciclo Formativo de Grado Superior en Sistemas de la Información",
+      "content": {
+        "honor": "Egresado del Ciclo Formativo de Alto Rendimiento",
+        "PPA": 19.86,
+        "cuadro-honor": "2023",
+        "habilidades": "Gestión de Proyectos de TI; Automatización y Soporte de TI; Calidad de Software (QA); Administración de Bases de Datos (SQL Server, PL/SQL); Seguridad de la Información (OWASP TOP 10); Desarrollo de Aplicaciones Web (PHP, JavaScript)"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Java Explorer Assessment",
+      "issuer": "Oracle University",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "Java SE; Object-Oriented Programming (OOP); Data Types; Arrays; Control Flow; Exception Handling; Debugging; Classes & Objects"
+    },
+    {
+      "name": "ASP.NET Core Fundamentals",
+      "issuer": "Microsoft Learn",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "ASP.NET Core; C#; Web APIs; MVC Architecture; Entity Framework Core; RESTful Services; Dependency Injection; .NET Development"
+    },
+    {
+      "name": "C++ Advanced",
+      "issuer": "Cisco Networking Academy",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "STL Containers; Algorithms; Object-Oriented Design; Memory Management; Regular Expressions; File I/O; High-Performance Computing"
+    },
+    {
+      "name": "JavaScript Essentials 2",
+      "issuer": "Cisco Networking Academy",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "Asynchronous Programming; DOM Manipulation; Functional Programming Concepts; Error Handling; Web Interactions"
+    },
+    {
+      "name": "Python Essentials 2",
+      "issuer": "Cisco Networking Academy",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "Generators; Iterators; Modules; Modules & Packages; Exception Handling; Iterators & Generators; File Processing; Scripting"
+    },
+    {
+      "name": "PL/SQL Explorer Assessment",
+      "issuer": "Oracle University",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "PL/SQL Programming; Stored Procedures; Functions; Triggers; Oracle Database; SQL Optimization; Control Flow; Package Management"
+    },
+    {
+      "name": "MySQL Explorer Assessment",
+      "issuer": "Oracle University",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "MySQL Database; Database Design; Query Performance Tuning; Data Backup & Recovery; Relational Databases; Schema Management"
+    },
+    {
+      "name": "MongoDB Database Admin",
+      "issuer": "MongoDB University",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "MongoDB; NoSQL Databases; Indexing; Replication; Sharding; CRUD Operations; Server Administration; Database Security"
+    },
+    {
+      "name": "IT Essentials 8",
+      "issuer": "Cisco Networking Academy",
+      "url": "d5d2bc2f-83ee-4b5f-9dd3-948d47eb68ba",
+      "dates": {
+        "start-date": "Julio 2024",
+        "end-date": "Agosto 2025"
+      },
+      "skills": "Computer Hardware; Operating Systems; Networking Concepts; Troubleshooting; IT Support; Cybersecurity; Virtualization; Cloud Essentials"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Maintainer",
+      "role": "Hyperschedule",
+      "dates": {
+        "start-date": "Noviembre 2023",
+        "end-date": "Presente"
+      },
+      "url": "hyperschedule.io",
+      "content": [
+        "Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB.",
+        "Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers.",
+        "Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over $1500 of yearly funding."
+      ]
+    },
+    {
+      "name": "Maintainer",
+      "role": "Hyperschedule",
+      "dates": {
+        "start-date": "Noviembre 2023",
+        "end-date": "Presente"
+      },
+      "url": "hyperschedule.io",
+      "content": [
+        "Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB.",
+        "Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers.",
+        "Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over $1500 of yearly funding."
+      ]
+    },
+    {
+      "name": "Maintainer",
+      "role": "Hyperschedule",
+      "dates": {
+        "start-date": "Noviembre 2023",
+        "end-date": "Presente"
+      },
+      "url": "hyperschedule.io",
+      "content": [
+        "Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB.",
+        "Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers.",
+        "Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over $1500 of yearly funding."
+      ]
+    },
+    {
+      "name": "Maintainer",
+      "role": "Hyperschedule",
+      "dates": {
+        "start-date": "Noviembre 2023",
+        "end-date": "Presente"
+      },
+      "url": "hyperschedule.io",
+      "content": [
+        "Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB.",
+        "Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers.",
+        "Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over $1500 of yearly funding."
+      ]
+    },
+    {
+      "name": "Maintainer",
+      "role": "Hyperschedule",
+      "dates": {
+        "start-date": "Noviembre 2023",
+        "end-date": "Presente"
+      },
+      "url": "hyperschedule.io",
+      "content": [
+        "Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB.",
+        "Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers.",
+        "Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over $1500 of yearly funding."
+      ]
+    }
+  ],
+  "skills": {
+    "lenguaje-programacion": "JavaScript/TypeScript, Python, C/C++, HTML/CSS, Java, Bash, R, Flutter, Dart",
+    "tecnologias": "React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, Caddy, NGINX, Google Cloud Platform",
+    "idiomas": "Inglés (B2), Alemán (B1), Portugués (B1), Francés (A2)"
+  }
+}
